@@ -4,7 +4,8 @@ A Python library for solving captchas using noCaptchaAi.com
 
 ## Installation
 
-`pip install nocaptchaai`
+Pending (`pip install nocaptchaai` ) until PyPi Admin Enables new projects.
+
 
 
 ## Example
