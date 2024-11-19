@@ -22,7 +22,7 @@ ocr = OCR(apikey)
 ocr.solve(image_url)
 
 
-# hCaptcha Token
+# qCaptcha Token
 
 payload = {
     # "proxy": {
